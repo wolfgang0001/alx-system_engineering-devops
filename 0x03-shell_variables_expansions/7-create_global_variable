@@ -1,2 +1,2 @@
 #!/bin/bash 
-env BEST="school"
+export BEST="school"
