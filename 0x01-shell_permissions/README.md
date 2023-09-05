@@ -1,1 +1,1 @@
-this cotians shell permssions 
+this cotians shell 
